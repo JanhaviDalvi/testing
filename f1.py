@@ -2,6 +2,6 @@ a = 5
 print(a)
 
 def firstFunction():
-    print("Working")
+    print("Janhavi")
 
 firstFunction()
