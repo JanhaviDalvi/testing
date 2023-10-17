@@ -6,3 +6,6 @@ def firstFunction():
     print("Janhavi Yash")
 
 firstFunction()
+
+def new():
+    print("dfsdf")
